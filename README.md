@@ -19,3 +19,15 @@ npm run dev
 
 - CategorySelect.vue
 - HomeCard.vue
+- MusicPlayer.vue
+- MusicPlayerVolume.vue
+
+## Decoder e API Itunes
+
+- song.js
+
+## Dati / Assets
+
+- artist.json
+- public/images/icons (app icons)
+- public/songs (track archive)
