@@ -1,0 +1,12 @@
+{
+    "name": "nomeArtista",
+    "album": "nomeAlbum",
+    "releaseYear": "annoReleaseAlbum",
+    "tracks": [
+        {"id": 1, "name": "nomeCanzone1", "path":"/songs/artista/canzone.mp3"},
+        {"id": 2, "name": "nomeCanzone2", "path":"/songs/artista/canzone.mp3"},
+        {"id": 3, "name": "nomeCanzone3", "path":"/songs/artista/canzone.mp3"},
+        {"id": 4, "name": "nomeCanzone4", "path":"/songs/artista/canzone.mp3"},
+        {"id": 5, "name": "nomeCanzone5", "path":"/songs/artista/canzone.mp3"}
+    ]
+}

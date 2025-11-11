@@ -2,42 +2,32 @@
 
 Spotify Demo with Quasar
 
-# Avvia Applicazione
+# Comando per avviare l'applicazione
 
 npm run dev
 
-## Install the dependencies
+# Librerie installate
 
-```bash
-yarn
-# or
-npm install
-```
+- axios
+- pinia
+- uniqolor
+- vue-material-design-icons
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+# Progesso dello Svilluppo
 
-```bash
-quasar dev
-```
+## Componenti
 
-### Lint the files
+- CategorySelect.vue
+- HomeCard.vue
+- MusicPlayer.vue
+- MusicPlayerVolume.vue
 
-```bash
-yarn lint
-# or
-npm run lint
-```
+## Decoder e API Itunes
 
-### Format the files
+- song.js
 
-```bash
-yarn format
-# or
-npm run format
-```
+## Dati / Assets
 
-### Build the app for production
-
-```bash
-quasar build
-```
+- artist.json
+- public/images/icons (app icons)
+- public/songs (track archive)
